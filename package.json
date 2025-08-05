@@ -1,11 +1,11 @@
 {
   "name": "electron-hiprint",
-  "version": "1.0.14-beta3",
+  "version": "1.0.14-c3",
   "description": "vue-plugin-hiprint client",
   "main": "main.js",
-  "author": "CcSimple<840054486@qq.com>",
+  "author": "netPokey",
   "license": "MIT",
-  "homepage": "https://gitee.com/CcSimple",
+  "homepage": "https://xxr.me",
   "scripts": {
     "start": "node start.js",
     "postinstall": "npm run fix-sqlite3",
@@ -25,8 +25,8 @@
   },
   "build": {
     "productName": "hiprint",
-    "appId": "com.simple.cc.hiprint",
-    "copyright": "CcSimple<840054486@qq.com>",
+    "appId": "me.xxr.yoi.hiprint",
+    "copyright": "netPokey",
     "directories": {
       "output": "out"
     },
